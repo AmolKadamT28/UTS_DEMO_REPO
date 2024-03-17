@@ -7,3 +7,5 @@ a = 10
 b = 65
 c = b - a
 print(c)
+
+print("Hello world")
